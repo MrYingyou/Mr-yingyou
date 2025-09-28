@@ -1,4 +1,4 @@
-# Mr-yingyou
+# NEWS CN
 NEWS简报 中文 25 9 25
 
 领域 事件 关键进展
